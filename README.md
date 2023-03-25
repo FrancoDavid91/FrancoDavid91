@@ -1,11 +1,10 @@
-###👋
 
-![](Uploading Welcome.gif…)
+![](Uploading_Welcome.gif…)
 
 ¡Qué onda! Soy Franco, un programador en formación listo para salir a cualquier cancha a jugar (y si, también me gusta el futbol).
 Le pongo mucha responsabilidad y garra a todo lo que hago, y le meto buena onda con la gente!
 
-Si querés sumar un buen jugador a tu equipo, mandame un mensaje.
+Si querés sumar un buen jugador a tu equipo, mandame un mensaje📲📩
 
 Siempre listo para empezar!
 
