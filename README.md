@@ -1,5 +1,4 @@
-
-![](Uploading_Welcome.gif…)
+![]("C:\Users\Usuario\Downloads\presentacionGitHub.gif")
 
 ¡Qué onda! Soy Franco, un programador en formación listo para salir a cualquier cancha a jugar (y si, también me gusta el futbol).
 Le pongo mucha responsabilidad y garra a todo lo que hago, y le meto buena onda con la gente!
