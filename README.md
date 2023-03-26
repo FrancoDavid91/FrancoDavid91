@@ -42,7 +42,7 @@ Siempre listo para empezar!
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoDavid91&count_private=true&theme=dracula">
 
 ---
 
