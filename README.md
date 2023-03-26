@@ -9,12 +9,12 @@ Si querés sumar un buen jugador a tu equipo, contactame📲📩
 
 Siempre listo para empezar!
 
-<i>How cool! I'm Franco, a programmer in training ready to go out to any field to rub elbows.
+<p><i>How cool! I'm Franco, a programmer in training ready to go out to any field to rub elbows.
 I put a lot of enthusiasm in everything I do, and I get a good vibe with people!
 
 If you want to add a good player to your team, contact me📲📩
 
-I'm always ready to start!</i>
+I'm always ready to start!</i><p>
 
 
 <img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="50px">
@@ -57,4 +57,4 @@ I'm always ready to start!</i>
 
 <img src="https://github.com/FrancoDavid91/assets/blob/main/gatitonegro.gif" width="50px">
 
----
+----
