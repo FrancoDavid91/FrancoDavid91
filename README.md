@@ -1,11 +1,11 @@
 ![](https://github.com/FrancoDavid91/assets/blob/main/presentacionGitHub.gif)
 
-¡Qué onda! Soy Franco, un programador en formación listo para salir a cualquier cancha a jugar (y si, también me gusta el futbol).
-Le pongo mucha responsabilidad y garra a todo lo que hago, y le meto buena onda con la gente!
+¡Qué onda! Soy Franco, un programador en formación listo para salir a cualquier cancha a codear.
+Le pongo mucha garra a todo lo que hago, y le meto buena onda con la gente!
 
-Si querés sumar un buen jugador a tu equipo, mandame un mensaje📲📩
+Si querés sumar un buen jugador a tu equipo, contactame📲📩
 
-Siempre listo para empezar!
+Siempre listo para empezar!<img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="30px"></h4>
 
 Skills:  JS / HTML / CSS
 
