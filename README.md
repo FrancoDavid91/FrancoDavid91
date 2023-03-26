@@ -42,7 +42,7 @@ Siempre listo para empezar!
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
-[![HitCount](http://hits.dwyl.com/verma-anushka/verma-anushka.svg)](http://hits.dwyl.com/verma-anushka/verma-anushka) ![ViewCount](https://views.whatilearened.today/views/github/verma-anushka/verma-anushka.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://verma-anushka.github.io/anushkaverma/)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=verma-anushka&count_private=true&theme=dracula">
 
 ---
 
