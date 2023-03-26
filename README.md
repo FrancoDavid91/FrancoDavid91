@@ -46,6 +46,7 @@ Siempre listo para empezar!
 
 ---
 
-[<img src='https://github.com/FrancoDavid91/assets/blob/main/github%20(1).png' alt='github' height='40'>](https://github.com/https://github.com/FrancoDavid91)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/francofazzolari//)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/franco.fazzolari.5)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/francofazzolari//)  <a href='fazzolari.df@gmail.com'>[<img src='https://github.com/FrancoDavid91/assets/blob/main/logotipo-de-gmail.png' alt='instagram' height='40'>]</a>
+[<img src='https://github.com/FrancoDavid91/assets/blob/main/github%20(1).png' alt='github' height='40'>](https://github.com/https://github.com/FrancoDavid91)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/francofazzolari//)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/franco.fazzolari.5)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/francofazzolari//)<br>
+[![Gmail Badge](https://img.shields.io/badge/-fazzolari.df-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fazzolari.df@gmail.com)](mailto:fazzolari.df@gmail.com)
 
 ---
