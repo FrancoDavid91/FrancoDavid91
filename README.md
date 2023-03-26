@@ -5,8 +5,8 @@ Le pongo mucha garra a todo lo que hago, y le meto buena onda con la gente!
 
 Si querés sumar un buen jugador a tu equipo, contactame📲📩
 
-Siempre listo para empezar!<img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="30px"></h4>
-
+Siempre listo para empezar!
+<img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="50px">
 Skills:  JS / HTML / CSS
 
 - 🔭 I’m currently working on in developing an e-commerce site 
