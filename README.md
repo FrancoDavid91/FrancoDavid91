@@ -2,13 +2,19 @@
 
 ---
 
-¡Qué onda! Soy Franco, un programador en formación listo para salir a cualquier cancha a codear.
+**¡Qué onda! Soy Franco**, un programador en formación listo para salir a cualquier cancha a codear.
 Le pongo mucha garra a todo lo que hago, y le meto buena onda con la gente!
 
 Si querés sumar un buen jugador a tu equipo, contactame📲📩
 
 Siempre listo para empezar!
 
+*How cool! I'm Franco, a programmer in training ready to go out to any field to rub elbows.
+I put a lot of enthusiasm in everything I do, and I get a good vibe with people!
+
+If you want to add a good player to your team, contact me📲📩
+
+I'm always ready to start!*
 
 
 <img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="50px">
@@ -47,6 +53,7 @@ Siempre listo para empezar!
 ---
 
 [<img src='https://github.com/FrancoDavid91/assets/blob/main/github%20(1).png' alt='github' height='40'>](https://github.com/https://github.com/FrancoDavid91)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/francofazzolari//)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/franco.fazzolari.5)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/francofazzolari//)<br>
-[![Gmail Badge](https://img.shields.io/badge/-fazzolari.df-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fazzolari.df@gmail.com)](mailto:fazzolari.df@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fazzolari.df@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fazzolari.df@gmail.com)](mailto:fazzolari.df@gmail.com)
 
+<img src="https://github.com/FrancoDavid91/assets/blob/main/gatitonegro.gif" width="50px">
 ---
