@@ -48,8 +48,6 @@ I'm always ready to start!</i><p>
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoDavid91&count_private=true&theme=dracula">
-
 ---
 
 [<img src='https://github.com/FrancoDavid91/assets/blob/main/github%20(1).png' alt='github' height='40'>](https://github.com/FrancoDavid91)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/linkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/francofazzolari//)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/facebook.png' alt='facebook' height='40'>](https://www.facebook.com/franco.fazzolari.5)  [<img src='https://github.com/FrancoDavid91/assets/blob/main/instagram.png' alt='instagram' height='40'>](https://www.instagram.com/francofazzolari//)<br>
