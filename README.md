@@ -2,19 +2,18 @@
 
 ---
 
-**¡Qué onda! Soy Franco**, un programador en formación listo para salir a cualquier cancha a codear.
-Le pongo mucha garra a todo lo que hago, y le meto buena onda con la gente!
+**Hola! Soy Franco** 👋
+Contador Público con background en ingeniería y actualmente en transición al mundo de los datos y la tecnología aplicada a negocios.
+Me encanta aprender, resolver problemas y transformar datos en decisiones inteligentes.
 
-Si querés sumar un buen jugador a tu equipo, contactame📲📩
+💡 Hoy estoy formándome en SQL, Excel avanzado, Power BI y Python, integrando mi experiencia en finanzas y gestión para aportar valor en proyectos de análisis y business intelligence.
 
-Siempre listo para empezar!
+📩 Si buscás a alguien con visión de negocio y ganas de crecer en IT, charlemos.
 
-<p><i>How cool! I'm Franco, a programmer in training ready to go out to any field to rub elbows.
-I put a lot of enthusiasm in everything I do, and I get a good vibe with people!
+<p><i>Hi! I'm Franco 👋 I'm a Public Accountant with an engineering background, currently transitioning into the world of **data and technology applied to business**. I love learning, problem-solving, and turning data into smart decisions.
+💡 Currently training in SQL, Advanced Excel, Power BI, and Python, combining my finance and management experience to create value in analytics and business intelligence projects.
 
-If you want to add a good player to your team, contact me📲📩
-
-I'm always ready to start!</i><p>
+📩 If you're looking for someone with a business mindset and the drive to grow in IT, let's talk!</i></p>
 
 
 <img src="https://github.com/FrancoDavid91/assets/blob/main/patito.gif" width="50px">
